@@ -22,7 +22,7 @@ Before deploying and running the ecommerce web app, ensure that you have the fol
 
 Follow these steps to deploy the ecommerce web app:
 
-1. Clone the Repository: `git clone https://github.com/cvamsikrishna11/ecommerce-web-app.git`
+1. Clone the Repository: `https://github.com/Michaelgwei86/wanda-ecommerce-web-app.git`
 2. Configure EC2 Instances: Set up your EC2 instances with the necessary software and configurations for the web application.
 3. Configure Load Balancer: Create and configure an Elastic Load Balancer to distribute traffic among the EC2 instances.
 4. Configure Auto Scaling: Set up an Auto Scaling group to automatically adjust the number of EC2 instances based on demand.
